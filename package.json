@@ -1,6 +1,6 @@
 {
   "name": "ci-nodejs",
-  "version": "17.0.2",
+  "version": "16.8.6",
   "description": "",
   "main": "index.js",
   "scripts": {
